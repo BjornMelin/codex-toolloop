@@ -39,15 +39,15 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.3.11",
-    "@openai/codex": "0.89.0",
-    "@types/node": "^24.0.0",
-    "@typescript-eslint/parser": "^8.53.1",
+    "@biomejs/biome": "^2.4.4",
+    "@openai/codex": "0.106.0",
+    "@types/node": "^24.10.15",
+    "@typescript-eslint/parser": "^8.56.1",
     "eslint": "^9.39.2",
-    "eslint-plugin-jsdoc": "^62.3.1",
-    "eslint-plugin-tsdoc": "^0.5.0",
+    "eslint-plugin-jsdoc": "^62.7.1",
+    "eslint-plugin-tsdoc": "^0.5.2",
     "tsx": "^4.21.0",
-    "turbo": "^2.7.5",
+    "turbo": "^2.8.11",
     "typescript": "^5.9.3",
     "vitest": "^4.0.18"
   }
